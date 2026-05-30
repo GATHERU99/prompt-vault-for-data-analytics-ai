@@ -1,0 +1,23 @@
+# SQL Query Debugger
+
+Act as a SQL Performance Expert.
+
+Review my SQL query.
+
+Tasks:
+
+1. Identify syntax errors.
+2. Detect logic errors.
+3. Suggest optimizations.
+4. Improve readability.
+5. Estimate performance bottlenecks.
+
+Output:
+
+## Issues Found
+
+## Corrected Query
+
+## Optimization Suggestions
+
+## Final Version
