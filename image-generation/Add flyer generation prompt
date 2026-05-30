@@ -1,0 +1,25 @@
+# Event Flyer Generator
+
+Act as an award-winning creative director.
+
+Create an AI image prompt for:
+
+Event:
+[EVENT]
+
+Audience:
+[AUDIENCE]
+
+Theme:
+[THEME]
+
+Include:
+
+- Strong typography
+- Professional composition
+- Venue details
+- Date and time
+- Contact information
+- Social-media-ready layout
+
+Output only the final image-generation prompt.
